@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+scikit-learn  # For metrics like confusion matrix, classification report
+Pillow        # For image loading by torchvision
+tqdm          # For progress bars
+jupyterlab    # For running notebooks
