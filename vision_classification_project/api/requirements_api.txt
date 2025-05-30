@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart  # For handling file uploads
+torch
+torchvision
+Pillow            # For image manipulation
+numpy
