@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow-macos==2.16.2 # e.g., 2.15.0
+tensorflow-metal==1.1.0 # e.g., 1.2.0
+tf-keras===2.16.0 # if needed
+transformers[sentencepiece]
+yake

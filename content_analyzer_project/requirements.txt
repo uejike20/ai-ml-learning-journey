@@ -1,0 +1,7 @@
+# content_analyzer_project/requirements.txt
+tensorflow-macos # Or just tensorflow-macos if the above install handles it
+transformers[sentencepiece]
+nltk
+yake
+jupyterlab
+# tf-keras is likely NOT needed here
