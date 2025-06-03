@@ -1,5 +1,6 @@
 # ai-ml-learning-journey
 Name: Utibe Ejike
+
 This repository documents my learning journey in AI/Machine Learning, including projects, notes, and exercises completed in order to become competent in Computer Vision.
 
 I aim to become well versed in computer vision techniques through practice projects focusing on:
