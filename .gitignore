@@ -24,3 +24,5 @@ vision_classification_project/models/
 Thumbs.db
 
 # Add any other specific files/folders you want to ignore
+# ... existing ignores ...
+vision_classification_project/api/venv/
