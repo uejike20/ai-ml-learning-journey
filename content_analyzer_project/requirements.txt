@@ -4,4 +4,7 @@ transformers[sentencepiece]
 nltk
 yake
 jupyterlab
-# tf-keras is likely NOT needed here
+tf-keras 
+ipykernel
+streamlit
+requests
