@@ -1,5 +1,5 @@
 # content_analyzer_project/requirements.txt
-tensorflow-macos # Or just tensorflow-macos if the above install handles it
+tensorflow-macos==2.16.2 # Or just tensorflow-macos if the above install handles it
 transformers[sentencepiece]
 nltk
 yake
